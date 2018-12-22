@@ -1,2 +1,3 @@
 # asm-test
-Assembly language test files
+
+Assembly language test files for MS-DOS, Microsoft Windows and Linux.
